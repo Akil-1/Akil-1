@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋![image](https://github.com/user-attachments/assets/2cbe5f92-3c31-4ee3-b34c-40627d7c47e9)
+
 
 <!--
 **Akil-1/Akil-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
