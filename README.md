@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#ff91a8;">Olá, sou Akil. 🖖</h2>
+<h2 align="center">Olá, sou Akil. 🖖</h2>
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" alt="openSUSE" /></a>
