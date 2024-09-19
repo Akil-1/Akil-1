@@ -9,7 +9,7 @@
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Akil-1&show_icons=true&count_private=true&hide_border=true&title_color=ff91a8&icon_color=ff91a8&text_color=c9d1d9&bg_color=0d1117" alt="Akil github stats" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akil-1&layout=compact&hide_border=true&title_color=ff91a8&text_color=ff91a8&bg_color=0d1117" />
-  <h3 align="center">Vou--Ser--Full--Stack</h3>
 </div>
 
+<h3 align="center">Vou--Ser--Full--Stack</h3>
 
