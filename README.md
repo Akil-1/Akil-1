@@ -11,5 +11,3 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akil-1&layout=compact&hide_border=true&title_color=ff91a8&text_color=ff91a8&bg_color=0d1117" />
 </div>
 
-<h3 align="center">Vou--Ser--Full--Stack</h3>
-
