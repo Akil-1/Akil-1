@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F75C7E&size=25&center=true&vCenter=true&width=450&lines=Olá,+sou+Akil;Desenvolvedor+e+entusiasta+Linux!;Sistemas+openSUSE,+Gentoo,+Debian">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F75C7E&size=25&center=true&vCenter=true&width=450&lines=Olá,+sou+Akil;nao+e+fff+fff!;fff+ffff,+fff,+ffff">
 </p>
 
 <div align="center">
