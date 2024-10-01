@@ -1,9 +1,15 @@
-<h2 align="center">Olá, sou Akil. 🖖</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F75C7E&size=25&center=true&vCenter=true&width=450&lines=Olá,+sou+Akil;Desenvolvedor+e+entusiasta+Linux!;Sistemas+openSUSE,+Gentoo,+Debian">
+</p>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white&labelColor=black" alt="Firefox"style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   <a href="#"><img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white&labelColor=black" alt="openSUSE" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white&labelColor=black" alt="Gentoo" /></a>
+  <img src="https://img.shields.io/badge/SWAY-6EBE92?style=for-the-badge&logo=Linux&logoColor=white&labelColor=black" alt="Sway"style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   <a href="#"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&labelColor=black" alt="Debian" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Void_Linux-4E9BBA?style=for-the-badge&logo=void-linux&logoColor=white&labelColor=black" alt="Void Linux" /></a>
+  <img src="https://img.shields.io/badge/LunarVim-5D5F88?style=for-the-badge&logo=vim&logoColor=white&labelColor=black" alt="LunarVim"style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 
 <div align="center">
@@ -12,48 +18,27 @@
 </div>
 
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" onmouseover="this.style.backgroundColor='#32CD32';" onmouseout="this.style.backgroundColor='#000000';"/>
-</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Akil-1&label=Profile%20views&color=0e75b6&style=flat" alt="Akil" /> </p>
 
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&labelColor=black" alt="Vim" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black" alt="Bash" /></a>
-</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F75C7E&size=25&center=true&vCenter=true&width=450&lines=Olá,+sou+Akil;Desenvolvedor+e+entusiasta+Linux!;Sistemas+openSUSE,+Gentoo,+Debian">
-</p>
 
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="white" stroke-width="4" fill="none" />
-  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="none" stroke-dasharray="250" stroke-dashoffset="250">
-    <animate attributeName="stroke-dashoffset" from="250" to="0" dur="3s" repeatCount="indefinite" />
-  </circle>
-</svg>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white&labelColor=black" alt="openSUSE" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-</a>
 
-<marquee>Bem-vindo ao meu GitHub futurista!</marquee>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Akil-1&bg_color=0d1117&color=ff91a8&line=ff91a8&point=c9d1d9&area=true&hide_border=true" alt="Gráfico de atividades do GitHub">
 
-<div align="center">
-  <!-- Badges Animados -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/SWAY-6EBE92?style=for-the-badge&logo=Linux&logoColor=white&labelColor=black" alt="Sway"
-      style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white&labelColor=black" alt="Firefox"
-      style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LunarVim-5D5F88?style=for-the-badge&logo=vim&logoColor=white&labelColor=black" alt="LunarVim"
-      style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
