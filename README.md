@@ -27,3 +27,9 @@
     </td>
   </tr>
 </table>
+
+<div align="center" style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akil-1&show_icons=true&count_private=true&hide_border=true&title_color=ff91a8&icon_color=ff91a8&text_color=c9d1d9&bg_color=0d1117" style="max-width: 100%; width: 45%; height: auto;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akil-1&layout=compact&hide_border=true&title_color=ff91a8&text_color=c9d1d9&bg_color=0d1117" style="max-width: 100%; width: 45%; height: auto;" />
+</div>
